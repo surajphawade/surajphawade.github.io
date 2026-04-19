@@ -1,6 +1,6 @@
 # 🌐 Suraj Phawade – Portfolio Website
 
-Welcome to my personal portfolio website 🚀  
+Welcome to my personal portfolio website  
 This site showcases my **Cloud & DevOps journey**, skills, and projects.  
 
 🔗 **Live Website:** [https://surajphawade.github.io](https://surajphawade.github.io)
