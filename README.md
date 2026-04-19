@@ -38,7 +38,7 @@ git push -u origin main
 To manage your portfolio content from the browser:
 
 1. Click the **⚙ Admin** link in the top-right of the navbar
-2. Enter the password: `suraj2024`
+2. Enter the password: `#####`
 3. You can now:
    - Add/delete **Skill** categories
    - Add/delete **Experience** entries
@@ -47,9 +47,9 @@ To manage your portfolio content from the browser:
 
 > **Important:** To change the admin password, open `index.html` and find:
 > ```javascript
-> const ADMIN_PASS = 'suraj2024';
+> const ADMIN_PASS = '######';
 > ```
-> Change `suraj2024` to your desired password and re-deploy.
+> Change `######` to your desired password and re-deploy.
 
 ### 📦 How data is stored
 All dynamic content (skills, experience, certifications, blog posts) is saved in **localStorage** in the visitor's browser. This means:
@@ -74,7 +74,7 @@ All dynamic content (skills, experience, certifications, blog posts) is saved in
 
 | What to change | Where in `index.html` |
 |---|---|
-| Admin password | `const ADMIN_PASS = 'suraj2024'` |
+| Admin password | `const ADMIN_PASS = '#####'` |
 | Your name & title | Hero section HTML |
 | Contact email | `handleContactForm()` function & contact section |
 | LinkedIn / GitHub URLs | Contact section `<a>` tags |
